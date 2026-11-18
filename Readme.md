@@ -14,7 +14,7 @@
 ---
 
 ### 👩‍💻 About Me
-- 🔭 Currently working on **Seaborn EDA - Students Performance Dataset**
+- 🔭 Currently working on **GenAI**
 - 🌱 Learning **Data Analysis & GenAI @ TuteDude | SQL | Statistics**
 - 🎯 Looking for **Data Analyst Internship**
 - 📫 Reach me: **shwetaarabole91@gmail.com**
